@@ -51,11 +51,6 @@ class ContentActivity : BaseActivity<ActivityContentBinding>() {
         }
     }
 
-    override fun onDestroy() {
-        super.onDestroy()
-        binding!!.wbContent.destroy()
-    }
-
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu_content, menu)
         if (postSaveDao.getListById(model.id).size != 0)
