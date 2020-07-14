@@ -24,21 +24,23 @@ Appda module qismlari yaratib olinib, xohlagan joydan turib ishlatilanadi. Buyer
 ![Dastur sxemasi](Screens/code1.png)
 ![Dastur sxemasi](Screens/code2.png)
 
-## Yangiliklar
+## Dastur ishlagandagi holati
+### Yangiliklar
 ![Yangiliklar](Screens/screen1.png)
 
-## Menu
+### Menu
 ![Menu](Screens/screen2.png)
 
-## Child menu
+### Child menu
 ![Child menu](Screens/screen3.png)
 
-## Mavzuga oid yangiliklar
+### Mavzuga oid yangiliklar
 ![Mavzuga oid yangiliklar](Screens/screen4.png)
 
-## Yangilik matni
+### Yangilik matni
 ![Yangilik matni](Screens/screen5.png)
 
-### Bog'lanish uchun
+## **********************
+# Bog'lanish uchun
 [Telegram](https://t.me/abbos2101)
 [Facebook](https://www.facebook.com/abbos.bobomurodov.2101)
