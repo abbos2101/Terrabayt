@@ -28,16 +28,16 @@ Appda module qismlari yaratib olinib, xohlagan joydan turib ishlatilanadi. Buyer
 ![Yangiliklar](Screens/screen1.png)
 
 ## Menu
-![Menu](ScreenShots/screen2.png)
+![Menu](Screens/screen2.png)
 
 ## Child menu
-![Child menu](ScreenShots/screen3.png)
+![Child menu](Screens/screen3.png)
 
 ## Mavzuga oid yangiliklar
-![Mavzuga oid yangiliklar](ScreenShots/screen4.png)
+![Mavzuga oid yangiliklar](Screens/screen4.png)
 
 ## Yangilik matni
-![Yangilik matni](ScreenShots/screen5.png)
+![Yangilik matni](Screens/screen5.png)
 
 ### Bog'lanish uchun
 [Telegram](https://t.me/abbos2101)
